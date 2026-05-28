@@ -1,3 +1,1 @@
-# Quiz
-
-Quiz example to showcase Reducer and state management.
+# React Example Reducer, Context and data loading.
