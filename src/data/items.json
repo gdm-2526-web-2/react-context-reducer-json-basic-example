@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Electronics",
+        "products": [
+            {
+                "id": 101,
+                "name": "Wireless Mouse",
+                "price": 24.99
+            },
+            {
+                "id": 102,
+                "name": "Mechanical Keyboard",
+                "price": 79.99
+            },
+            {
+                "id": 103,
+                "name": "USB-C Hub",
+                "price": 34.5
+            },
+            {
+                "id": 104,
+                "name": "Noise-Cancelling Headphones",
+                "price": 129.0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Home & Kitchen",
+        "products": [
+            {
+                "id": 201,
+                "name": "Electric Kettle",
+                "price": 39.99
+            },
+            {
+                "id": 202,
+                "name": "Blender",
+                "price": 59.99
+            },
+            {
+                "id": 203,
+                "name": "Air Fryer",
+                "price": 99.99
+            },
+            {
+                "id": 204,
+                "name": "Coffee Maker",
+                "price": 74.95
+            }
+        ]
+    }
+]
